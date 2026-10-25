@@ -20,11 +20,11 @@ and instructions for running any automation.
 
 ## Portfolio
 
-This workspace is dedicated to practical demonstrations using
-synthetic or openly licensed data.
+### [Excel and CSV customer-file cleaning](https://github.com/manai-data-tools/excel-csv-cleaning-demo)
 
-Each demonstration will document the initial problem, processing
-steps, output checks, and limitations.
+A reproducible demonstration on synthetic customer records, with before-and-after
+Excel and CSV files, a Python cleaning script, review reports, and automated tests.
+Includes screenshots and documentation in English and French.
 
 ## Languages
 
